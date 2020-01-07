@@ -28,7 +28,7 @@ Deskripsi Level 4 | *Non Linearity*;	melakukan sintesis masalah menjadi topik se
 Nama  | GOAT Leveling
 :-----|:----
 Kode  | GOAT
-Alias | Structure
+Alias | Structure & Systematic
 Definisi |Kemampuan dan upaya untuk membuat sebuah rencana kerja yang bertingkat, rinci dan sistematis
 Deskripsi Level 1 | *Task Level*; merespon persoalan secara task list atau masih pada level tugas paling rendah
 Deskripsi Level 2 | *Activity Level*; respon yang dimunculkan sudah pada tingkat aktifitas dan sudah berisi sekumpulan task
@@ -65,11 +65,11 @@ Nama  | Prediction Analysis
 :-----|:----
 Kode  | PREA
 Alias | Forecasting
-Definisi |	Kemampuan dalam mengelola data, informasi, dan pengalaman, untuk mengembangkan analisis jangka panjang dan berpikiran luas untuk masa depan
-Deskripsi Level 1 | 
-Deskripsi Level 2 |
-Deskripsi Level 3 | 
-Deskripsi Level 4 | 
+Definisi |Kemampuan untuk menemukan peluang dan solusi baru untuk masalah saat ini dengan melihat beragam hal yang melampaui praktik saat ini dan menggunakan pemikiran inovatif	
+Deskripsi Level 1 |*Data Mining*; mengumpulkan data dari beragam aspek untuk diolah menjadi informasi
+Deskripsi Level 2 |*Data Analysis*; melakukan analisa data untuk diolah menjadi informasi yang bermakna
+Deskripsi Level 3 |*Predictive Modeling*;  menyusun pemodelan yang bersifat prediksi untuk dijadikan acuan dalam bertindak
+Deskripsi Level 4 |*Model Monitoring*; melakukan kajian untuk melihat model yang paling aplikatif
 
 ### Strategic Analysis
 
@@ -77,11 +77,11 @@ Nama  | Strategic Analysis
 :-----|:----
 Kode  | STRA
 Alias | Projecting
-Definisi |	
-Deskripsi Level 1 | 
-Deskripsi Level 2 |
-Deskripsi Level 3 | 
-Deskripsi Level 4 | 
+Definisi |	Kemampuan dalam mengelola data, informasi, dan pengalaman, untuk mengembangkan analisis jangka panjang dan berpikiran luas untuk masa depan
+Deskripsi Level 1 |*As-is Analysis*; melakukan analisis  berbasis pengalaman saat ini
+Deskripsi Level 2 |*Determine existing strategy*; menentukan efektivitas strategi yang ada
+Deskripsi Level 3 | *Formulate plans*; menyusun perencanaan alternatif
+Deskripsi Level 4 | *Implement Strategy*; memastikan perencanaan dapat di eksekusi
 
 ### Scenario Building
 
@@ -89,11 +89,11 @@ Nama  | Scenario Building
 :-----|:----
 Kode  | SCBD
 Alias | Scenario
-Definisi |	
-Deskripsi Level 1 | 
-Deskripsi Level 2 |
-Deskripsi Level 3 | 
-Deskripsi Level 4 | 
+Definisi |	 kemampuan melakukan analisis dan pemahaman tentang tren dan peristiwa terkini dan masa lalu, termasuk deskripsi yang konsisten tentang kemungkinan situasi di masa depan. Pengembangan serangkaian skenario yang membantu mengidentifikasi kemungkinan peluang di masa depan
+Deskripsi Level 1 |*Scenario Analysis*;
+Deskripsi Level 2 |*Scenario Prognosis*;
+Deskripsi Level 3 |*Scenario Development*; 
+Deskripsi Level 4 |*Scenario Implementation*; 
 
 ### Strategic Response
 
@@ -106,6 +106,7 @@ Deskripsi Level 1 |
 Deskripsi Level 2 |
 Deskripsi Level 3 | 
 Deskripsi Level 4 | 
+
 ### Analyzing
 
 Nama  | Analyzing
