@@ -90,22 +90,22 @@ Nama  | Scenario Building
 Kode  | SCBD
 Alias | Scenario
 Definisi |	 kemampuan melakukan analisis dan pemahaman tentang tren dan peristiwa terkini dan masa lalu, termasuk deskripsi yang konsisten tentang kemungkinan situasi di masa depan. Pengembangan serangkaian skenario yang membantu mengidentifikasi kemungkinan peluang di masa depan
-Deskripsi Level 1 |*Scenario Analysis*;
-Deskripsi Level 2 |*Scenario Prognosis*;
-Deskripsi Level 3 |*Scenario Development*; 
-Deskripsi Level 4 |*Scenario Implementation*; 
+Deskripsi Level 1 |*Scenario Analysis*; kemampuan menganalisis peristiwa masa depan dengan mempertimbangkan kemungkinan hasil alternatif berbasis proyeksi, tidak mencoba untuk menunjukkan satu gambaran yang pasti tentang masa depan, namun menyajikan beberapa alternatif pengembangan di masa depan
+Deskripsi Level 2 |*Scenario Prognosis*; melakukan kajian prognosis atas ragam skenario yang sudah dibangun, untuk diambil yang paling efektif dan efisien
+Deskripsi Level 3 |*Scenario Development*; menyusun skenario yang paling efektif dan efisien untuk dijadikan dasar pijak pengembangan kedepan
+Deskripsi Level 4 |*Scenario Implementation*; memastikan implementasi dari skenario terbaik diterapkan 
 
 ### Strategic Response
 
 Nama  | Strategic Response
 :-----|:----
 Kode  | STRR
-Alias | Scenario
-Definisi |	
-Deskripsi Level 1 | 
-Deskripsi Level 2 |
-Deskripsi Level 3 | 
-Deskripsi Level 4 | 
+Alias | Strategic Planning
+Definisi |Kemampuan seseorang dalam merespon dan mengeksekusi rencana kerja yang dengan didasarkan pada analisa dan sintesa atas kekuatan dan kelebihan organisasi baik secara internal maupun eksternal, dan kemudian dituangkan dalam rencana tindak yang sistematis dengan menyelaraskan rencana kerja pada tiap-tiap fungsi yang terlibat atau dilibatkan dalam rencana tersebut. 
+Deskripsi Level 1 | *Partial Response*; tindakan yang dilakukan masih sektoral belum mengkaitkan dengan unit/fungsi kerja lain
+Deskripsi Level 2 | *Short-term response*; tindakan yang dilakukan masih dalam kerangka jangka pendek terutama pada domain yang sudah dikenali
+Deskripsi Level 3 | *Comprehensive Response*;	tindakan yang dilakukan secara sistematis, rinci dan detil dengan melibatkan sebagian besar unit kerja 
+Deskripsi Level 4 | *Strategic Response*;	tindakan yang dilakukan sangat sistematis, rinci dan detil dengan melibatkan seluruh fungsi organisasi dan kerangka perencanaan sudah berjangka jauh kedepan.
 
 ### Analyzing
 
